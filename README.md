@@ -1,0 +1,3 @@
+MINI INSTA CLONE!! it doesnt work like the REAL insta,, but its KIINDAA like it!! <br>
+except for the fact you dont... um....... lets say.. u cant message other people sadly... <br>
+BUT DONT WORRY im gonna learn it soon... ok??...
