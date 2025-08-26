@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>testt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">MiniInsta</div>
+    <div class="nav-icons">
+      <span>🏠</span>
+      <span>🔍</span>
+      <span>📤</span>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="new-post">
+      <input type="text" id="caption" placeholder="Write a caption...">
+      <input type="text" id="image-url" placeholder="Image URL (optional)">
+      <button onclick="addPost()">Post</button>
+    </div>
+
+    <div id="feed"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
